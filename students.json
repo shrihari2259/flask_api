@@ -1,0 +1,12 @@
+{
+    "students": [
+        {
+            "name": "Navin",
+            "marks": 90
+        },
+        {
+            "name": "Hari",
+            "marks": 80
+        }
+    ]
+}
