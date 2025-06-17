@@ -2,7 +2,7 @@
 FROM python:3.9
 
 # Set working directory
-WORKDIR /app
+WORKDIR /step ahead tasks
 
 # Copy all files into the container
 COPY . .
